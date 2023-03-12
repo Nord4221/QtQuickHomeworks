@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BnW.png</file>
+        <file>Bravery.png</file>
+        <file>dune.png</file>
+        <file>Autmn.png</file>
+    </qresource>
+</RCC>
